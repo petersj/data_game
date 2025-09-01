@@ -14,8 +14,8 @@ dependencies = [
     "matplotlib (>=3.10.6,<4.0.0)",
     "seaborn (>=0.13.2,<0.14.0)",
     "jupyter (>=1.1.1,<2.0.0)",
-    "pygame (>=2.6.1,<3.0.0)",
     "setuptools (<=71)",
+    "pygame-ce (>=2.5.5,<3.0.0)",
 ]
 
 [build-system]
